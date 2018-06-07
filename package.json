@@ -1,0 +1,11 @@
+{
+  "name": "harmoniousbot",
+  "version": "1.0.0",
+  "description": "harmony",
+  "main": "index.js",
+  "author": "Lemon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
